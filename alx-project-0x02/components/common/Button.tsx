@@ -1,5 +1,5 @@
 import React from "react";
-import { ButtonProps } from "@/interfaces";
+import {type ButtonProps } from "@/interfaces";
 
 const sizeClasses = {
   small: "px-3 py-1.5 text-sm",
@@ -9,7 +9,7 @@ const sizeClasses = {
 
 const shapeClasses = {
   square: "rounded-md",
-  rounded: "rounded-full",
+  rounded: "rounded-sm",
   circle: "rounded-full aspect-square flex items-center justify-center text-center",
 };
 
