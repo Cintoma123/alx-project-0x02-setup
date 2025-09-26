@@ -8,8 +8,8 @@ const sizeClasses = {
 };
 
 const shapeClasses = {
-  square: "rounded-md",
-  rounded: "rounded-sm",
+  square: "rounded-md" ,"rounded-sm",
+  rounded: "rounded-sm", "rounded-md",
   circle: "rounded-full aspect-square flex items-center justify-center text-center",
 };
 
